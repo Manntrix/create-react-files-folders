@@ -1,5 +1,8 @@
 # Create React Files Folders
 
+![Create React Folder](https://i.imgur.com/J20pP4q.gif)
+![Create React File](https://i.imgur.com/s69IG9G.gif)
+
 This will help you create files and folders for your react app.
 
 First Step:
