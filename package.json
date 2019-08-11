@@ -1,0 +1,21 @@
+{
+  "name": "create-react-files-folders",
+  "version": "1.0.0",
+  "description": "This will help you create files and folders for your react app",
+  "main": "./bin/index.js",
+  "bin": {
+    "create-react-files-folders": "./bin/index.js",
+    "crff": "./bin/index.js"
+  },
+  "preferGlobal": true,
+  "author": "Manish Mandal",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "commander": "^2.20.0",
+    "esm": "^3.2.25",
+    "inquirer": "^6.5.0",
+    "lodash": "^4.17.14",
+    "pad": "^3.2.0"
+  }
+}
