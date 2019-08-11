@@ -42,9 +42,9 @@ crff f <name of the file>
 | Command | Shortcut | Description |
 | ------ | ------ | ------ | 
 
-| dir | d | This will create the directory.
+| dir | d | This will create the directory. |
 
-| file | f | This will create the file.
+| file | f | This will create the file. |
 
 
 ### Supported Files
