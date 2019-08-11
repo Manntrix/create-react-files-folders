@@ -1,13 +1,18 @@
 {
   "name": "create-react-files-folders",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This will help you create files and folders for your react app",
   "main": "./bin/index.js",
   "bin": {
     "create-react-files-folders": "./bin/index.js",
     "crff": "./bin/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Manntrix/create-react-files-folders"
+  },
   "preferGlobal": true,
+  "keywords": ["Create React Component", "React Folder", "React File"],
   "author": "Manish Mandal",
   "license": "ISC",
   "dependencies": {
