@@ -40,10 +40,8 @@ crff f <name of the file>
 ### Options
 
 | Command | Shortcut | Description |
-| ------ | ------ | ------ | 
-
+| ------ | ------ | ------ |
 | dir | d | This will create the directory. |
-
 | file | f | This will create the file. |
 
 
